@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass4</string>
+    <string name="using_thread">Load Using Thread</string>
+    <string name="using_asynctask">Load Using AsyncTask</string>
+</resources>
